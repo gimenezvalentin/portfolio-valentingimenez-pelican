@@ -1,0 +1,11 @@
+# Archivos y carpetas a ignorar
+env/
+output/
+pelican-themes/
+t/
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+*.zip
+*.tar.gz
