@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Portfolio - Valentín Giménez</title><link>/</link><description></description><lastBuildDate>Fri, 13 Jun 2025 00:00:00 -0300</lastBuildDate><item><title>About Me</title><link>/about-me.html</link><description>&lt;p&gt;&lt;img src="../images/foto.png" alt="Valentin's Photo" width="200"/&gt;&lt;/p&gt;
+<rss version="2.0"><channel><title>Portfolio - Valentín Giménez</title><link>/</link><description></description><lastBuildDate>Sun, 15 Jun 2025 00:00:00 -0300</lastBuildDate><item><title>Inicio</title><link>/index.html</link><description>&lt;h1&gt;Bienvenido&lt;/h1&gt;
+&lt;p&gt;📌 Este es el portfolio de &lt;strong&gt;Valentín Giménez&lt;/strong&gt;.&lt;br&gt;
+Elegí tu idioma:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/es/index.html"&gt;Versión en Español&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/en/about.html"&gt;English Version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valentín Giménez</dc:creator><pubDate>Sun, 15 Jun 2025 00:00:00 -0300</pubDate><guid isPermaLink="false">tag:None,2025-06-15:/index.html</guid><category>misc</category></item><item><title>About Me</title><link>/about-me.html</link><description>&lt;p&gt;&lt;img alt="Valentín's photo" src="/images/foto.png"&gt;&lt;/p&gt;
+&lt;p&gt;👨🏻‍💻 &lt;strong&gt;Valentín Giménez&lt;/strong&gt;&lt;br&gt;
+AI Student at UNR&lt;br&gt;
+Python Developer&lt;/p&gt;
+&lt;p&gt;&lt;a href="/cv_valentin_gimenez.pdf"&gt;📄 Download CV&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;📌 Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://colab.research.google.com/drive/1_L0h9xh2kAxrzZzP-BorO5Wq6ZwX6aif"&gt;⭐ Data analysis with Pandas – Line 144&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/feed/update/urn:li:activity:7235696596112310273/"&gt;⭐ YOLO classifier – Images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://colab.research.google.com/drive/1i86ASFEyFCA7pSn6WLUzl34mBzJbM9Pv"&gt;⭐ Directed Graphs + BFS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;📬 Contact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/valentín-giménez-73b35b269"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/gimenezvalentin"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.instagram.com/valengimenez99"&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valentín Giménez</dc:creator><pubDate>Fri, 13 Jun 2025 00:00:00 -0300</pubDate><guid isPermaLink="false">tag:None,2025-06-13:/about-me.html</guid><category>en</category></item><item><title>About Me</title><link>/about-me.html</link><description>&lt;p&gt;&lt;img src="../images/foto.png" alt="Valentin's Photo" width="200"/&gt;&lt;/p&gt;
 &lt;p&gt;👨🏻‍💻 &lt;strong&gt;Valentín Giménez&lt;/strong&gt;&lt;br&gt;
 AI Student at the National University of Rosario&lt;br&gt;
 Python Developer&lt;/p&gt;
