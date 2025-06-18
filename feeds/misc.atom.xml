@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Portfolio - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2025-06-15T00:00:00-03:00</updated><entry><title>Inicio</title><link href="/index.html" rel="alternate"></link><published>2025-06-15T00:00:00-03:00</published><updated>2025-06-15T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:None,2025-06-15:/index.html</id><content type="html">&lt;h1&gt;Bienvenido&lt;/h1&gt;
-&lt;p&gt;📌 Este es el portfolio de &lt;strong&gt;Valentín Giménez&lt;/strong&gt;.&lt;br&gt;
-Elegí tu idioma:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="/es/index.html"&gt;Versión en Español&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="/en/about.html"&gt;English Version&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Portfolio - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2025-06-15T00:00:00-03:00</updated><entry><title>Inicio</title><link href="/index.html" rel="alternate"></link><published>2025-06-15T00:00:00-03:00</published><updated>2025-06-15T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:None,2025-06-15:/index.html</id><content type="html">&lt;section class="landing-idiomas"&gt;
+  &lt;h1&gt;👋 ¡Bienvenido a mi Portfolio!&lt;/h1&gt;
+  &lt;p&gt;Soy &lt;strong&gt;Valentín Giménez&lt;/strong&gt; — estudiante de Inteligencia Artificial, desarrollador y creador de ideas.&lt;/p&gt;
+  &lt;p&gt;Elegí el idioma que prefieras para explorar mis proyectos y avances.&lt;/p&gt;
+
+  &lt;div class="botones-idioma"&gt;
+    &lt;a href="/es/index.html" class="boton-es"&gt;🌎 Español&lt;/a&gt;
+    &lt;a href="/en/index.html" class="boton-en"&gt;🌍 English&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</content><category term="misc"></category></entry></feed>

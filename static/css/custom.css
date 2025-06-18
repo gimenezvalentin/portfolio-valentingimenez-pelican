@@ -1,0 +1,176 @@
+/* === BASE GENERAL === */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+    color: #1a1a1a;
+    line-height: 1.7;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #005999;
+}
+
+h1, h2, h3, h4 {
+    font-weight: 600;
+    color: #111;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* === CONTENIDO GENERAL === */
+.content {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+/* === TITULOS DE ARTICULOS === */
+.article-title {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+/* === IMAGENES === */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
+
+/* === BOTÓN DE DESCARGA === */
+.button-download {
+    display: inline-block;
+    background-color: #007acc;
+    color: #fff;
+    padding: 0.6rem 1.2rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+    font-weight: 500;
+}
+
+.button-download:hover {
+    background-color: #005fa3;
+}
+
+/* === RESPONSIVE: CELULARES Y TABLETAS === */
+@media (max-width: 768px) {
+    body {
+        font-size: 1rem;
+        padding: 0 1rem;
+    }
+
+    .content {
+        padding: 0.5rem;
+    }
+
+    .article-title {
+        font-size: 1.6rem;
+    }
+}
+
+/* === LANDING DE IDIOMAS === */
+.landing-idiomas {
+    max-width: 800px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background: linear-gradient(135deg, #d1ecff, #fef6e4);
+    text-align: center;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+    animation: fadeIn 1s ease-in-out;
+}
+
+.landing-idiomas h1 {
+    font-size: 2.5rem;
+    color: #003366;
+    margin-bottom: 1rem;
+}
+
+.landing-idiomas p {
+    font-size: 1.1rem;
+    color: #333;
+    margin-bottom: 1.2rem;
+}
+
+.botones-idioma {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+}
+
+.boton-es,
+.boton-en {
+    display: inline-block;
+    padding: 0.8rem 1.6rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: 0.3s ease;
+    text-decoration: none;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.boton-es {
+    background: #f76c6c;
+}
+
+.boton-en {
+    background: #3a86ff;
+}
+
+.boton-es:hover {
+    background: #d95050;
+}
+
+.boton-en:hover {
+    background: #2b6bd6;
+}
+
+/* 🎬 Animación suave */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 600px) {
+    .landing-idiomas h1 {
+        font-size: 2rem;
+    }
+
+    .botones-idioma a {
+        font-size: 1rem;
+    }
+}
+/* Corrige el layout luego de remover la sidebar */
+.wrapper {
+    display: block !important;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.main {
+    margin-left: 0 !important;
+    width: 100% !important;
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem;
+}
