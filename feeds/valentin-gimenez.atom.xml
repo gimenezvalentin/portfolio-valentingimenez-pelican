@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Portfolio - Valentín Giménez</title><link href="/" rel="alternate"></link><link href="/feeds/valentin-gimenez.atom.xml" rel="self"></link><id>/</id><updated>2025-06-15T00:00:00-03:00</updated><entry><title>Inicio</title><link href="/index.html" rel="alternate"></link><published>2025-06-15T00:00:00-03:00</published><updated>2025-06-15T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:None,2025-06-15:/index.html</id><content type="html">&lt;section class="landing-idiomas"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Portfolio - Valentín Giménez</title><link href="https://gimenezvalentin.github.io/portfolio-valentingimenez-pelican/" rel="alternate"></link><link href="https://gimenezvalentin.github.io/portfolio-valentingimenez-pelican/feeds/valentin-gimenez.atom.xml" rel="self"></link><id>https://gimenezvalentin.github.io/portfolio-valentingimenez-pelican/</id><updated>2025-06-15T00:00:00-03:00</updated><entry><title>Inicio</title><link href="https://gimenezvalentin.github.io/portfolio-valentingimenez-pelican/index.html" rel="alternate"></link><published>2025-06-15T00:00:00-03:00</published><updated>2025-06-15T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:gimenezvalentin.github.io,2025-06-15:/portfolio-valentingimenez-pelican/index.html</id><content type="html">&lt;section class="landing-idiomas"&gt;
   &lt;h1&gt;👋 ¡Bienvenido a mi Portfolio!&lt;/h1&gt;
   &lt;p&gt;Soy &lt;strong&gt;Valentín Giménez&lt;/strong&gt; — estudiante de Inteligencia Artificial, desarrollador y creador de ideas.&lt;/p&gt;
   &lt;p&gt;Elegí el idioma que prefieras para explorar mis proyectos y avances.&lt;/p&gt;
@@ -8,7 +8,7 @@
     &lt;a href="/es/index.html" class="boton-es"&gt;🌎 Español&lt;/a&gt;
     &lt;a href="/en/index.html" class="boton-en"&gt;🌍 English&lt;/a&gt;
   &lt;/div&gt;
-&lt;/section&gt;</content><category term="misc"></category></entry><entry><title>About Me</title><link href="/about-me-en.html" rel="alternate"></link><published>2025-06-13T00:00:00-03:00</published><updated>2025-06-13T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:None,2025-06-13:/about-me-en.html</id><content type="html">&lt;p&gt;&lt;img src="../images/foto.png" alt="Valentin's Photo" width="200"/&gt;&lt;/p&gt;
+&lt;/section&gt;</content><category term="misc"></category></entry><entry><title>About Me</title><link href="https://gimenezvalentin.github.io/portfolio-valentingimenez-pelican/about-me-en.html" rel="alternate"></link><published>2025-06-13T00:00:00-03:00</published><updated>2025-06-13T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:gimenezvalentin.github.io,2025-06-13:/portfolio-valentingimenez-pelican/about-me-en.html</id><content type="html">&lt;p&gt;&lt;img src="../images/foto.png" alt="Valentin's Photo" width="200"/&gt;&lt;/p&gt;
 &lt;p&gt;👨🏻‍💻 &lt;strong&gt;Valentín Giménez&lt;/strong&gt;&lt;br&gt;
 AI Student at the National University of Rosario&lt;br&gt;
 Python Developer&lt;/p&gt;
@@ -24,7 +24,7 @@ Python Developer&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://www.linkedin.com/in/valentín-giménez-73b35b269"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/gimenezvalentin"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.instagram.com/valengimenez99"&gt;Instagram&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="en"></category></entry><entry><title>Sobre mí</title><link href="/sobre-mi.html" rel="alternate"></link><published>2025-06-13T00:00:00-03:00</published><updated>2025-06-13T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:None,2025-06-13:/sobre-mi.html</id><content type="html">&lt;p&gt;&lt;img src="../images/foto.png" alt="Foto de Valentín" width="200"/&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><category term="en"></category></entry><entry><title>Sobre mí</title><link href="https://gimenezvalentin.github.io/portfolio-valentingimenez-pelican/sobre-mi.html" rel="alternate"></link><published>2025-06-13T00:00:00-03:00</published><updated>2025-06-13T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:gimenezvalentin.github.io,2025-06-13:/portfolio-valentingimenez-pelican/sobre-mi.html</id><content type="html">&lt;p&gt;&lt;img src="../images/foto.png" alt="Foto de Valentín" width="200"/&gt;&lt;/p&gt;
 &lt;p&gt;👨🏻‍💻 &lt;strong&gt;Valentín Giménez&lt;/strong&gt;&lt;br&gt;
 Estudiante de Inteligencia Artificial en la UNR&lt;br&gt;
 Desarrollador Python&lt;/p&gt;
