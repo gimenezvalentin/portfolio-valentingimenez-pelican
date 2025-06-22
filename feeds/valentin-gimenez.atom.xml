@@ -8,7 +8,7 @@
     &lt;a href="/es/index.html" class="boton-es"&gt;🌎 Español&lt;/a&gt;
     &lt;a href="/en/index.html" class="boton-en"&gt;🌍 English&lt;/a&gt;
   &lt;/div&gt;
-&lt;/section&gt;</content><category term="misc"></category></entry><entry><title>About Me</title><link href="/about-me.html" rel="alternate"></link><published>2025-06-13T00:00:00-03:00</published><updated>2025-06-13T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:None,2025-06-13:/about-me.html</id><content type="html">&lt;p&gt;&lt;img src="../images/foto.png" alt="Valentin's Photo" width="200"/&gt;&lt;/p&gt;
+&lt;/section&gt;</content><category term="misc"></category></entry><entry><title>About Me</title><link href="/about-me-en.html" rel="alternate"></link><published>2025-06-13T00:00:00-03:00</published><updated>2025-06-13T00:00:00-03:00</updated><author><name>Valentín Giménez</name></author><id>tag:None,2025-06-13:/about-me-en.html</id><content type="html">&lt;p&gt;&lt;img src="../images/foto.png" alt="Valentin's Photo" width="200"/&gt;&lt;/p&gt;
 &lt;p&gt;👨🏻‍💻 &lt;strong&gt;Valentín Giménez&lt;/strong&gt;&lt;br&gt;
 AI Student at the National University of Rosario&lt;br&gt;
 Python Developer&lt;/p&gt;
